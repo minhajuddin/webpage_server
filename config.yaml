@@ -1,0 +1,5 @@
+'page_server.local':
+  view: page_server.local
+
+default:
+  view: default_view
